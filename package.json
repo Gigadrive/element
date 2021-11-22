@@ -2,15 +2,15 @@
 	"name": "@gigadrive/element",
 	"version": "0.1.0",
 	"description": "Work in progress",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"scripts": {
-		"build": "node node_modules/typescript/bin/tsc"
+		"build": "node node_modules/typescript/bin/tsc --declaration --sourceMap"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Gigadrive/element.git"
 	},
-	"author": "",
+	"author": "Mehdi Baaboura <mbaaboura@gigadrivegroup.com> (https://github.com/Zeryther)",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/Gigadrive/element/issues"
