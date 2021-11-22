@@ -1,0 +1,22 @@
+{
+	"name": "@gigadrive/element",
+	"version": "0.1.0",
+	"description": "Work in progress",
+	"main": "index.js",
+	"scripts": {
+		"build": "node node_modules/typescript/bin/tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gigadrive/element.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Gigadrive/element/issues"
+	},
+	"homepage": "https://github.com/Gigadrive/element#readme",
+	"dependencies": {
+		"typescript": "^4.5.2"
+	}
+}
