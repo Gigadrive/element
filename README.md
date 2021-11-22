@@ -2,6 +2,12 @@
 
 Work in progress
 
+## Installation
+
+```bash
+npm i @gigadrive/element
+```
+
 ## Building
 
 ```bash
